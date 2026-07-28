@@ -10,6 +10,8 @@ System & Framework Requirements:
 2. Permissions: Requires Administrator privileges specifically when modifying network adapter DNS settings (though basic speed benchmarking can run without elevated rights).
 
 This application is completely safe and malware-free. Any AV detection results are false positives.
+(Note: Windows SmartScreen may display a standard 'Windows protected your PC' warning upon launching. If this occurs, simply click More info and then Run anyway to proceed.)
 
 View the Virustotal scan result here: https://www.virustotal.com/gui/file/af0b43d54b00b7a7eea99e6cd5c65e9e5f9304ae6dd0b78a0aa58413adabe9b0?nocache=1
-(Note: Windows SmartScreen may display a standard 'Windows protected your PC' warning upon launching. If this occurs, simply click More info and then Run anyway to proceed.)
+
+
