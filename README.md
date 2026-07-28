@@ -1,6 +1,6 @@
 CodeSmartDNSTester (aka. CodeSmart DNS Tester) is a completely free, lightweight and portable Windows app, written in C#; designed to speed-test popular and custom DNS resolvers, display current active DNS configurations, and automatically apply the fastest and most optimum server found to your network adapter in one click.
 
-App Usage:
+App Usage:<br>
     1. Run the app, on a system with internet access
     2. The app will display your current DNS and the popular DNS resolvers in a table
     3. Click the "Start Speed Test" button to start the DNS speed test. Let the test complete
