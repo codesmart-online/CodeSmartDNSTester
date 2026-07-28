@@ -7,7 +7,7 @@ Compatibility:
 
 System & Framework Requirements:
 1. Runtime: Requires .NET Framework 4.8 (pre-installed natively on modern Windows 10/11 updates).
-2. Permissions: Requires Administrator privileges specifically when modifying network adapter DNS settings (though basic speed benchmarking can run without elevated rights).
+2. Permissions: Requires Administrator privileges in order to change the current system DNS.
 
 This application is completely safe and malware-free. Any AV detection results are false positives.
 (Note: Windows SmartScreen may display a standard 'Windows protected your PC' warning upon launching. If this occurs, simply click More info and then Run anyway to proceed.)
