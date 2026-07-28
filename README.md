@@ -2,7 +2,7 @@ CodeSmartDNSTester (aka. CodeSmart DNS Tester) is a completely free, lightweight
 
 Compatibility:
 1. Windows 7 / Windows 8 (Fully functional provided the .NET Framework 4.8 runtime is installed on the system).
-2. Windows 11 (64-bit and ARM64 via emulation).
+2. Windows 11 (64-bit).
 3. Windows 10 (both 32-bit and 64-bit architectures).
 
 System & Framework Requirements:
