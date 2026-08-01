@@ -30,6 +30,3 @@
 <p>This application is completely safe and malware-free. Any AV detection results are false positives.<br>
     (Note: Windows SmartScreen may display a standard 'Windows protected your PC' warning upon launching. If this occurs, simply click More info and then Run anyway to proceed.)
 </p>
-<p>
-    View the Virustotal scan result here: <a href="https://www.virustotal.com/gui/file/af0b43d54b00b7a7eea99e6cd5c65e9e5f9304ae6dd0b78a0aa58413adabe9b0?nocache=1" target="_blank">https://www.virustotal.com/gui/file/af0b43d54b00b7a7eea99e6cd5c65e9e5f9304ae6dd0b78a0aa58413adabe9b0?nocache=1</a>
-</p>
