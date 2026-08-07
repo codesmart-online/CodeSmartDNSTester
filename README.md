@@ -17,7 +17,7 @@
 <br>
 <p><strong>Compatibility:</strong><br>
 <ul>
-    <li>Windows 11 (64 bit)</li>
+    <li>Windows 11 (64 bit and ARM64)</li>
     <li>Windows 10 (32 and 64 bit)</li>
     <li>Windows 8 / Windows 7 (Fully functional provided the .NET Framework 4.8 runtime is installed on the system).</li>
 </ul>
