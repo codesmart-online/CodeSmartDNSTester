@@ -10,7 +10,7 @@
     <li>The app will sort the DNS resolvers with respect to speed and let you know if you are using the fastest DNS or not</li>
     <li>You can also select any DNS row and click "Apply Selected DNS". This will setup your system to use the selected DNS resolver</li>
     <li>You can also restore the previous DNS settings if they exist in the .json file created by the app</li>
-    <li>You can also add any DNS resolvers to the list</li>
+    <li>You can also add any custom DNS resolvers to the list</li>
     <li>You can export the DNS speed results in a csv file by clicking the "Export Results to CSV" button</li>
 </ul>
 </p>
