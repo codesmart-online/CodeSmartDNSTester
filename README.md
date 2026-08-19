@@ -26,7 +26,7 @@
 <p><strong>System & Framework Requirements:</strong><br>
 <ol>
     <li>Runtime: Requires .NET Framework 4.8 (pre-installed natively on modern Windows 10/11 updates).</li>
-    <li>Permissions: Requires Administrator privileges in order to change the current system DNS.</li>
+    <li>Permissions: Requires Administrator privileges only in order to change the current system DNS.</li>
 </ol>
 </p>
 <br>
